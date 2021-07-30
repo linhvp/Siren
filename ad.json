@@ -39,7 +39,7 @@
     "isShowAdsAndInApp":true,
     "timeClose":5000,
     "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiU6RsZqd/CzmGPl+s5iU9J6HwyrAJ2CgB80sv9+HFeInyk9iWb+fdcsN5Dhikq/EjlnVStaUFDA8OcxDpZOCQUI7roE+tCzEWNo36Hy+HT4CrcmEkUOxDhVYl9WGSRGWiqWqr8mTohA3SiYKPxv9fu8ElRftzJr5Gwe8UlK08nQWszK+Rcp7C+MBqmm5X5272vkHUza2oStwwDXH9z9xD1maDj5cT2pgzmn4GExz+6JoQt6SzWTqWzBPdJyAi/X7uVRSwqvWTehZzLDMM86/1+5MDi3H9YUhKgEojqK9ZTHgAgyuMgd5fpGRxrzHmYypM3xP4vFDh6WIr2zbmQAaIQIDAQAB",
-    "countrys":["us","ca","uk","vi"],
+    "countrys":["us","ca","uk","vn"],
     "SUBS":["week"]
   },
   "apps": []
