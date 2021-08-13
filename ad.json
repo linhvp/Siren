@@ -33,14 +33,15 @@
     "rate":true,
     "bg":"https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw",
     "in_app":false,
-    "in_app_close":false,
+    "in_app_close":true,
     "bg_inapp":"",
     "price":"After 49€/week",
     "isShowAdsAndInApp":true,
-    "timeClose":5000,
+    "timeClose":3000,
     "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiU6RsZqd/CzmGPl+s5iU9J6HwyrAJ2CgB80sv9+HFeInyk9iWb+fdcsN5Dhikq/EjlnVStaUFDA8OcxDpZOCQUI7roE+tCzEWNo36Hy+HT4CrcmEkUOxDhVYl9WGSRGWiqWqr8mTohA3SiYKPxv9fu8ElRftzJr5Gwe8UlK08nQWszK+Rcp7C+MBqmm5X5272vkHUza2oStwwDXH9z9xD1maDj5cT2pgzmn4GExz+6JoQt6SzWTqWzBPdJyAi/X7uVRSwqvWTehZzLDMM86/1+5MDi3H9YUhKgEojqK9ZTHgAgyuMgd5fpGRxrzHmYypM3xP4vFDh6WIr2zbmQAaIQIDAQAB",
-    "countrys":["us","ca","uk","vn"],
-    "SUBS":["week"]
+    "countrys":["us","ca","de","fr","au"],
+    "SUBS":["week"],
+    "buyMain":true
   },
   "apps": []
 }
