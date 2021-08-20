@@ -26,7 +26,7 @@
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
-    "is_show_more": true,
+    "is_show_more": false,
     "isLoading":false,
     "isShowAds":true,
     "onlyAdsMe":false,
@@ -41,7 +41,9 @@
     "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiU6RsZqd/CzmGPl+s5iU9J6HwyrAJ2CgB80sv9+HFeInyk9iWb+fdcsN5Dhikq/EjlnVStaUFDA8OcxDpZOCQUI7roE+tCzEWNo36Hy+HT4CrcmEkUOxDhVYl9WGSRGWiqWqr8mTohA3SiYKPxv9fu8ElRftzJr5Gwe8UlK08nQWszK+Rcp7C+MBqmm5X5272vkHUza2oStwwDXH9z9xD1maDj5cT2pgzmn4GExz+6JoQt6SzWTqWzBPdJyAi/X7uVRSwqvWTehZzLDMM86/1+5MDi3H9YUhKgEojqK9ZTHgAgyuMgd5fpGRxrzHmYypM3xP4vFDh6WIr2zbmQAaIQIDAQAB",
     "countrys":["us","ca","de","fr","au"],
     "SUBS":["week"],
-    "buyMain":true
+    "buyMain":true,
+     "lock":true,
+    "des_inapp":"Payment will be charged to Google Account at confimation of purchse . Subsciption automatically renews unless auto-renew is turned off least 72- hours before the and of curent period. Accoount will be charged for renewal within 72- hours prior to the end off curent period after confirmation of  purchse . Subscription may be managed be the user and auto-renwal may be turned off by going  to the user's Account Settings after purchse . Any  unused portion of free trial period, if ofered , will be forfeited when the user purchse a Subscription to that.\n Thank  <3"
   },
   "apps": []
 }
