@@ -49,8 +49,8 @@
      {
       "id": "com.videocall.sirenhead.siren",
       "banner_250": "https://raw.githubusercontent.com/linhvp/Sizzzen/main/siren_250.png",
-      "banner_50": "https://github.com/linhvp/Sizzzen/raw/main/siren_inter.png",
-      "inter":""
+      "banner_50": "",
+      "inter":"https://github.com/linhvp/Sizzzen/raw/main/siren_inter.png"
      
     }
   ]
